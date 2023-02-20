@@ -18,7 +18,7 @@ I'm currently learing how to develop a full stack Web application...
 
 
 
-# URL Shortner
+# URLSHORTNER
 
 A URL shortener, also known as a link shortener, seems like a simple tool, but it is a service that can have a dramatic impact on marketing efforts.
 
